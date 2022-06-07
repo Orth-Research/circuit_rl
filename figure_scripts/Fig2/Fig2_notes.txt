@@ -1,0 +1,3 @@
+RL_discrete_1q_cliff_plus_T_v0.ipynb generates the optimal policy, saves it as a pickle file (optpol_1q_clifft_bins16_runs100000.p), then generates the optimal programs using K=100, and also produces a plot of the Bloch sphere. We used 100,000 samples on the Bloch sphere to estimate the transition amplitudes p(s',r|s,a).
+
+It uses oneqenv_wfnsim.py and RLexpts_utils.py files as helper files.

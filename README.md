@@ -14,6 +14,7 @@ This repository includes information, code, and data to generate the figures in 
 * scipy
 * numpy
 * pandas
+* [gym](https://github.com/openai/gym)
 * [pyquil](https://pyquil-docs.rigetti.com/en/stable/index.html)
 
 ### Data Generation
